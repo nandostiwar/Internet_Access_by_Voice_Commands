@@ -1,0 +1,3 @@
+# Internet_Access_by_Voice_Commands
+A system to navigate the internet using voice commands is presented. The implemented tool allowed verbal control of Google Chrome, Gmail and Facebook applications. The tests were conducted on a group of 33 people with different experiences browsing the Internet composed of young adults, older adults and people with motor disabilities. 
+The source code of the Internet access system by voice commands is presented, the system was developed in Windows operating system using the IDE Visual Studio, the project is WPF where the graphic part was developed in XAML and the algorithm in C#, are attached. the libraries for the identification of commands and dictations, voice synthesis and automatic control of the operating system. 
